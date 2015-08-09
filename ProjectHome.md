@@ -1,0 +1,1 @@
+Live time ride share application that incoporates data from different exisisting applications to alert people traveling to and from similar locations.
